@@ -8,7 +8,7 @@ var nota = 0; //nota de la prueba sobre 3 puntos (hay 3 preguntas)
 var preguntaHTML;
 var urlMaria = "https://rawgit.com/MariaAdrover/LM_PRACTICA5/master/xml/formulari.xml";
 var urlJavi = 'https://rawgit.com/shamshir/Prueba/master/questions.xml';
-var urlXML = ;
+var urlXML = "https://rawgit.com/Bernat77/Formulario-Marcas/master/xml/preguntas.xml";
 
 //**************************************************************************************************** 
 //Después de cargar la página (onload) se definen los eventos sobre los elementos entre otras acciones.
@@ -42,7 +42,7 @@ window.onload = function () {
             gestionarXml(this);
         }
     };
-    xhttp.open("GET", "urlJavi", true);
+    xhttp.open("GET", "urlXML", true);
     xhttp.send();
 }
 
