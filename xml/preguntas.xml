@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<preguntas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../XSD/validacion.xsd">
+<!DOCTYPE questions SYSTEM "preguntas.dtd">
 	<questions>	
 	  	<question id="pregunta001">
 			<type>text</type>
