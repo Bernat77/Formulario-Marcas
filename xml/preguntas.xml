@@ -1,113 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE questions SYSTEM "preguntas.dtd">
-	<questions>	
-	  	<question id="pregunta001">
-			<type>text</type>
-			<title>¿Qué nombre recibe la energía y arte marcial que utilizan Jonathan y Joseph Joestar?</title>
-				<answer>hamon</answer>
-		</question>
-		<question id="pregunta002">
-			<type></type>
-			<title>¿Cuál es el apellido que tienen en común tres cooprotagonistas a lo largo de la saga?</title>
-			<answer>zeppeli</answer>
-		</question>
-		<question id="pregunta003">
-			<type>select</type>
-			<title>¿Cuál de los siguientes no es un Pillar Men?</title>
-				<option>ACDC</option>
-				<option>Wham</option>
-				<option>Santana</option>
-				<option>Duran Duran</option>
-				<option>Cars</option>
-				<answer>3</answer>
-		</question>
-		<question id="pregunta004">
-			<type>select</type>
-			<title>¿Cuál de estos es el STAND de Iggy?</title>
-				<option>The Empress</option>
-				<option>The Fool</option>
-				<option>The World</option>
-				<answer>1</answer>
-		</question>
-		<question id="pregunta005">
-			<type>multiple</type>
-			<title>¿Quién de los siguientes personajes son estudiantes en 'Diamond is Unbreakable'?</title>
-				<option>Rohan Kishibe</option>
-				<option>Yukako Yamagishi</option>
-				<option>Tamami Kobayashi </option>
-				<option>Okuyasu Nijimura</option>
-				<option>Koichi Hirose</option>
-				<option>Shigekiyo Yangu</option>
-				<answer>1</answer>
-				<answer>3</answer>
-				<answer>4</answer>
-				<answer>5</answer>				
-		</question>
-		<question id="pregunta006">
-			<type>multiple</type>
-			<title>¿Qué números etiquetan a los simpáticos 'Sex Pistols'?</title>
-				<option>1</option>
-				<option>2</option>
-				<option>3</option>
-				<option>4</option>
-				<option>5</option>
-				<option>6</option>				
-				<option>7</option>
-				<option>8</option>
-				<answer>0</answer>
-				<answer>1</answer>
-				<answer>2</answer>
-				<answer>4</answer>
-				<answer>5</answer>
-				<answer>6</answer>
-		</question>
-		<question id="pregunta007">
-			<type>checkbox</type>
-			<title>¿Cuáles de los siguientes STANDS adquirió Pucci a lo largo de Stone Ocean?</title>
-				<option>Green Day</option>
-				<option>White Snake</option>
-				<option>Made in heaven</option>
-				<option>Purple Haze</option>
-				<option>Scorpions</option>
-				<option>C-MOON</option>
-				<answer>1</answer>
-				<answer>2</answer>
-				<answer>5</answer>
-		</question>
-		<question id="pregunta008">
-			<type>checkbox</type>
-			<title>¿Cuáles de los siguientes personajes son importantes para la trama de 'Steel Ball Run'?</title>
-				<option>Darwin</option>
-				<option>Jesucristo</option>
-				<option>Nikola Tesla</option>
-				<option>El presidente de EEUU</option>
-				<answer>1</answer>
-				<answer>3</answer>
-		</question>
-		<question id="pregunta009">
-			<type>radio</type>
-			<title>¿Cuál es el best JoJo?</title>
-				<option>Jonathan</option>
-				<option>Joseph</option>
-				<option>Jotaro</option>
-				<option>Josuke</option>
-				<option>Giorno</option>
-				<option>Jolyne</option>
-				<option>Johnny</option>
-				<option>J8suke</option>
-				<answer>3</answer>
-		</question>
-		<question id="pregunta010">
-			<type>radio</type>
-			<title>¿Y el best "broJo"?</title>
-				<option>William A. Zeppeli</option>
-				<option>Caesar</option>
-				<option>Kakyoin</option>
-				<option>Okuyasu</option>
-				<option>Bruno</option>
-				<option>Ermes</option>
-				<option>Gyro</option>
-				<option>Yasuho</option>
-				<answer>4</answer>	
-		</question>   
-	</questions>
+<questions>
+   <question id="pregunta001">
+      <type>text</type>
+      <title>¿Qué nombre recibe la energía y arte marcial que utilizan Jonathan y Joseph Joestar?</title>
+      <answer>hamon</answer>
+   </question>
+   <question id="pregunta002">
+      <type />
+      <title>¿Cuál es el apellido que tienen en común tres cooprotagonistas a lo largo de la saga?</title>
+      <answer>zeppeli</answer>
+   </question>
+   <question id="pregunta003">
+      <type>select</type>
+      <title>¿Cuál de los siguientes no es un Pillar Men?</title>
+      <option>ACDC</option>
+      <option>Wham</option>
+      <option>Santana</option>
+      <option>Duran Duran</option>
+      <option>Cars</option>
+      <answer>3</answer>
+   </question>
+   <question id="pregunta004">
+      <type>select</type>
+      <title>¿Cuál de estos es el STAND de Iggy?</title>
+      <option>The Empress</option>
+      <option>The Fool</option>
+      <option>The World</option>
+      <answer>1</answer>
+   </question>
+   <question id="pregunta005">
+      <type>multiple</type>
+      <title>¿Quién de los siguientes personajes son estudiantes en 'Diamond is Unbreakable'?</title>
+      <option>Rohan Kishibe</option>
+      <option>Yukako Yamagishi</option>
+      <option>Tamami Kobayashi</option>
+      <option>Okuyasu Nijimura</option>
+      <option>Koichi Hirose</option>
+      <option>Shigekiyo Yangu</option>
+      <answer>1</answer>
+      <answer>3</answer>
+      <answer>4</answer>
+      <answer>5</answer>
+   </question>
+   <question id="pregunta006">
+      <type>multiple</type>
+      <title>¿Qué números etiquetan a los simpáticos 'Sex Pistols'?</title>
+      <option>1</option>
+      <option>2</option>
+      <option>3</option>
+      <option>4</option>
+      <option>5</option>
+      <option>6</option>
+      <option>7</option>
+      <option>8</option>
+      <answer>0</answer>
+      <answer>1</answer>
+      <answer>2</answer>
+      <answer>4</answer>
+      <answer>5</answer>
+      <answer>6</answer>
+   </question>
+   <question id="pregunta007">
+      <type>checkbox</type>
+      <title>¿Cuáles de los siguientes STANDS adquirió Pucci a lo largo de Stone Ocean?</title>
+      <option>Green Day</option>
+      <option>White Snake</option>
+      <option>Made in heaven</option>
+      <option>Purple Haze</option>
+      <option>Scorpions</option>
+      <option>C-MOON</option>
+      <answer>1</answer>
+      <answer>2</answer>
+      <answer>5</answer>
+   </question>
+   <question id="pregunta008">
+      <type>checkbox</type>
+      <title>¿Cuáles de los siguientes personajes son importantes para la trama de 'Steel Ball Run'?</title>
+      <option>Darwin</option>
+      <option>Jesucristo</option>
+      <option>Nikola Tesla</option>
+      <option>El presidente de EEUU</option>
+      <answer>1</answer>
+      <answer>3</answer>
+   </question>
+   <question id="pregunta009">
+      <type>radio</type>
+      <title>¿Cuál es el best JoJo?</title>
+      <option>Jonathan</option>
+      <option>Joseph</option>
+      <option>Jotaro</option>
+      <option>Josuke</option>
+      <option>Giorno</option>
+      <option>Jolyne</option>
+      <option>Johnny</option>
+      <option>J8suke</option>
+      <answer>3</answer>
+   </question>
+   <question id="pregunta010">
+      <type>radio</type>
+      <title>¿Y el best "broJo"?</title>
+      <option>William A. Zeppeli</option>
+      <option>Caesar</option>
+      <option>Kakyoin</option>
+      <option>Okuyasu</option>
+      <option>Bruno</option>
+      <option>Ermes</option>
+      <option>Gyro</option>
+      <option>Yasuho</option>
+      <answer>4</answer>
+   </question>
+</questions>
