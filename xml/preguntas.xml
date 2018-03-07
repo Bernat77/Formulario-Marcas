@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions SYSTEM "formulari.dtd">
+
 <questions>
     <question id="pregunta001">
         <type>text</type>
