@@ -6,7 +6,7 @@
         <title>Demuestra que no eres un robot, escribe "hola":</title>
         <answer>hola</answer>
     </question>
-    <question id="pregunta002">
+    <question>
         <type>text</type>
         <title>Si fueras Eric Arthur Blair, ¿Cuánto es 2+2?</title>
         <answer>5</answer>
@@ -21,7 +21,7 @@
         <option>Especialista terrorista</option>
         <answer>3</answer>
     </question>
-    <question id>
+    <question>
         <type>select</type>
         <title>¿Hola?</title>
         <option>Adiós</option>
