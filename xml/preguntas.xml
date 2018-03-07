@@ -3,41 +3,41 @@
 <questions>
    <question id="pregunta001">
       <type>text</type>
-      <title>¿Qué nombre recibe la energía y arte marcial que utilizan Jonathan y Joseph Joestar?</title>
-      <answer>hamon</answer>
+      <title>Demuestra que no eres un robot, escribe "hola":</title>
+      <answer>hola</answer>
    </question>
    <question id="pregunta002">
       <type />
-      <title>¿Cuál es el apellido que tienen en común tres cooprotagonistas a lo largo de la saga?</title>
-      <answer>zeppeli</answer>
+      <title>Si fueras Eric Arthur Blair, ¿Cuánto es 2+2?</title>
+      <answer>5</answer>
    </question>
    <question id="pregunta003">
       <type>select</type>
-      <title>¿Cuál de los siguientes no es un Pillar Men?</title>
-      <option>ACDC</option>
-      <option>Wham</option>
-      <option>Santana</option>
-      <option>Duran Duran</option>
-      <option>Cars</option>
+      <title></title>
+      <option>Ni machista, ni feminista, ..</option>
+      <option>Ciclista</option>
+      <option>Windows Vista</option>
+      <option>Imbécil</option>
+      <option>Especialista terrorista</option>
       <answer>3</answer>
    </question>
    <question id="pregunta004">
       <type>select</type>
-      <title>¿Cuál de estos es el STAND de Iggy?</title>
-      <option>The Empress</option>
-      <option>The Fool</option>
-      <option>The World</option>
+      <title>¿Hola?</title>
+      <option>Adiós</option>
+      <option>DEUS VULT</option>
+      <option>¡H-Hola! ¡Mi nombre es (tu_nombre)!</option>
       <answer>1</answer>
    </question>
    <question id="pregunta005">
       <type>multiple</type>
-      <title>¿Quién de los siguientes personajes son estudiantes en 'Diamond is Unbreakable'?</title>
-      <option>Rohan Kishibe</option>
-      <option>Yukako Yamagishi</option>
-      <option>Tamami Kobayashi</option>
-      <option>Okuyasu Nijimura</option>
-      <option>Koichi Hirose</option>
-      <option>Shigekiyo Yangu</option>
+      <title>¿Qué alimento deberían estar penados por la ley bajo pena de muerte por su consumo?</title>
+      <option>Fuet</option>
+      <option>Pizza con piña</option>
+      <option>Pizza de personas normales</option>
+      <option>Pizza con piña</option>
+      <option>Pizza con piña</option>
+      <option>Pizza con piña</option>
       <answer>1</answer>
       <answer>3</answer>
       <answer>4</answer>
@@ -45,17 +45,16 @@
    </question>
    <question id="pregunta006">
       <type>multiple</type>
-      <title>¿Qué números etiquetan a los simpáticos 'Sex Pistols'?</title>
-      <option>1</option>
-      <option>2</option>
-      <option>3</option>
-      <option>4</option>
-      <option>5</option>
-      <option>6</option>
-      <option>7</option>
-      <option>8</option>
+      <title>Selecciona sólo los juegos buenos</title>
+      <option>Xenogears</option>
+      <option>Dark Souls 2</option>
+      <option>A link to the past</option>
+      <option>Metal Gear Solid V</option>
+      <option>Soul Reaver</option>
+      <option>Megaman X5</option>
+      <option>Silent Hill 3</option>
+      <option>Castlevania 2</option>
       <answer>0</answer>
-      <answer>1</answer>
       <answer>2</answer>
       <answer>4</answer>
       <answer>5</answer>
@@ -63,51 +62,44 @@
    </question>
    <question id="pregunta007">
       <type>checkbox</type>
-      <title>¿Cuáles de los siguientes STANDS adquirió Pucci a lo largo de Stone Ocean?</title>
-      <option>Green Day</option>
-      <option>White Snake</option>
-      <option>Made in heaven</option>
-      <option>Purple Haze</option>
-      <option>Scorpions</option>
-      <option>C-MOON</option>
+      <title>Ya no se me ocurre nada, asi que marca las casillas verdaderas</title>
+      <option>Pizza</option>
+      <option>¡¡¡¡¡VERDADERA!!!!!!!11</option>
+      <option>con piña</option>
+      <option>es una</option>
+      <option>Maravilla</option>
+      <option>Yo también soy verdadera</option>
       <answer>1</answer>
-      <answer>2</answer>
       <answer>5</answer>
    </question>
    <question id="pregunta008">
       <type>checkbox</type>
-      <title>¿Cuáles de los siguientes personajes son importantes para la trama de 'Steel Ball Run'?</title>
-      <option>Darwin</option>
-      <option>Jesucristo</option>
-      <option>Nikola Tesla</option>
-      <option>El presidente de EEUU</option>
+      <title>Selecciona sólo los mangas buenos</title>
+      <option>Shingeki No Kyojin</option>
+      <option>JoJo's Bizarre Adventure</option>
+      <option>Berserk</option>
+      <option>La biblia</option>
+      <option>Monster</option>
+      <option>El alquimista - Paulo Coelho</option>
       <answer>1</answer>
-      <answer>3</answer>
+      <answer>2</answer>
+      <answer>4</answer>
    </question>
    <question id="pregunta009">
       <type>radio</type>
-      <title>¿Cuál es el best JoJo?</title>
-      <option>Jonathan</option>
-      <option>Joseph</option>
-      <option>Jotaro</option>
-      <option>Josuke</option>
-      <option>Giorno</option>
-      <option>Jolyne</option>
-      <option>Johnny</option>
-      <option>J8suke</option>
-      <answer>3</answer>
+      <title>¿Te ha gustado este examen?</title>
+      <option>Sí</option>
+      <option>No</option>
+      <option>Más o menos</option>
+      <option>Ni "sí-ista" ni "no-ísta"</option>
+      <option>Me quiero ir a casa</option>
+      <answer>0</answer>
    </question>
    <question id="pregunta010">
       <type>radio</type>
-      <title>¿Y el best "broJo"?</title>
-      <option>William A. Zeppeli</option>
-      <option>Caesar</option>
-      <option>Kakyoin</option>
-      <option>Okuyasu</option>
-      <option>Bruno</option>
-      <option>Ermes</option>
-      <option>Gyro</option>
-      <option>Yasuho</option>
-      <answer>4</answer>
+      <title>Entonces, quedamos en que la pizza de piña es un asco, ¿Verdad?</title>
+      <option>Sí</option>
+      <option>No</option>
+      <answer>0</answer>
    </question>
 </questions>
