@@ -29,7 +29,7 @@ window.onload = function () {
     }
 
     document.getElementById("rein").onclick = function () {
-        if (confirm("Quieres reintentar el examen?")) {
+        if (confirm("¿Quieres reintentar el examen?")) {
             document.getElementById("myform").reset();
             scroll(0, 0);
             location.reload();
