@@ -1,3 +1,4 @@
+var xhttp = new XMLHttpRequest();
 var formElement = null;
 var respuestaText = [];
 var respuestaSelect = [];
@@ -35,8 +36,7 @@ window.onload = function () {
         }
     }
 
-    //LEER XML de xml/preguntas.xml
-    var xhttp = new XMLHttpRequest();
+    //LEER XML de xml
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             gestionarXml(this);
