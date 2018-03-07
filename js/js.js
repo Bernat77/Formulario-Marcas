@@ -42,7 +42,7 @@ window.onload = function () {
             gestionarXml(this);
         }
     };
-    xhttp.open("GET", "urlXML", true);
+    xhttp.open("GET", urlXML, true);
     xhttp.send();
 }
 
