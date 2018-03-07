@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="preguntas2.xsd">
-    <question id="pregunta001">
+    <question>
         <type>text</type>
         <title>Demuestra que no eres un robot, escribe "hola":</title>
         <answer>hola</answer>
@@ -11,7 +11,7 @@
         <title>Si fueras Eric Arthur Blair, ¿Cuánto es 2+2?</title>
         <answer>5</answer>
     </question>
-    <question id="pregunta003">
+    <question>
         <type>select</type>
         <title>Ni machista, ni feminista, ..</title>
         <option>Igualista</option>
@@ -21,7 +21,7 @@
         <option>Especialista terrorista</option>
         <answer>3</answer>
     </question>
-    <question id="pregunta004">
+    <question id>
         <type>select</type>
         <title>¿Hola?</title>
         <option>Adiós</option>
@@ -29,7 +29,7 @@
         <option>¡H-Hola! ¡Mi nombre es (tu_nombre)!</option>
         <answer>1</answer>
     </question>
-    <question id="pregunta005">
+    <question>
         <type>multiple</type>
         <title>¿Qué alimentos deberían estar penados por la ley bajo pena de muerte por su consumo?</title>
         <option>Fuet</option>
@@ -43,7 +43,7 @@
         <answer>4</answer>
         <answer>5</answer>
     </question>
-    <question id="pregunta006">
+    <question>
         <type>multiple</type>
         <title>Selecciona sólo los juegos buenos</title>
         <option>Xenogears</option>
@@ -60,7 +60,7 @@
         <answer>5</answer>
         <answer>6</answer>
     </question>
-    <question id="pregunta007">
+    <question>
         <type>checkbox</type>
         <title>Ya no se me ocurre nada, asi que marca las casillas verdaderas</title>
         <option>Pizza</option>
@@ -72,7 +72,7 @@
         <answer>1</answer>
         <answer>5</answer>
     </question>
-    <question id="pregunta008">
+    <question>
         <type>checkbox</type>
         <title>Selecciona sólo los mangas buenos</title>
         <option>Shingeki No Kyojin</option>
@@ -85,7 +85,7 @@
         <answer>2</answer>
         <answer>4</answer>
     </question>
-    <question id="pregunta009">
+    <question>
         <type>radio</type>
         <title>¿Te ha gustado este examen?</title>
         <option>Sí</option>
@@ -95,7 +95,7 @@
         <option>Me quiero ir a casa</option>
         <answer>0</answer>
     </question>
-    <question id="pregunta010">
+    <question>
         <type>radio</type>
         <title>Entonces, quedamos en que la pizza de piña es un asco, ¿Verdad?</title>
         <option>Sí</option>
