@@ -290,10 +290,10 @@ label {
     position: fixed;
     width: 100%;
     text-align: center;
-    top: 7px;
+    top: 0;
     background-color: rgba(0, 0, 0, 0.3);
     font-size: 50px;
-    padding-top: 50px;
+    padding-top: 20px;
     padding-bottom: 50px;
     text-shadow: 12px 5px 4px purple, 0 0 25px white, 0 0 20px purple;
 }
