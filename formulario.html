@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Examen</title>
+        <meta name="description" content="Examen para corregir">
+        <meta charset='UTF-8'/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel='stylesheet' type="text/css" media='screen and (min-width: 720px)' href='css/1.css'>
+        <link rel='stylesheet' type="text/css" media='screen and (max-width: 719px)' href='css/2.css'>
+        <script src="js/js.js"></script>
+    </head>
+    <body>
+        <div class="encabezado">
+            <h1>Examen</h1>
+            <a href="index.html"><img src="img/volver.png" alt="boton volver"></a>
+        </div>
+        <br>
+        <form id="myform">
+            <fieldset class="pregunta">
+                <h2>Pregunta 1:</h2>
+                <h3 class="enunciado">&nbsp;</h3>
+                <input type="text" placeholder = "Contesta aquí..."/>
+            </fieldset>
+            <fieldset class="pregunta">
+                <h2>Pregunta 2:</h2>
+                <h3 class="enunciado">&nbsp;</h3>
+                <input type="text" placeholder = "Contesta aquí..."/>
+            </fieldset>
+            <fieldset class="pregunta">
+                <h3 class="enunciado">&nbsp;</h3>
+                <h2>Pregunta 3:</h2>
+                <select id="select1">
+                    <option selected value="-1">Selecciona una opción...</option>
+                </select>
+            </fieldset>
+            <fieldset class="pregunta">
+                <h2>Pregunta 4:</h2>
+                <h3 class="enunciado">&nbsp;</h3>
+                <select id="select2">
+                    <option selected value="-1">Selecciona una opción...</option>
+                </select>
+            </fieldset>
+            <fieldset class="pregunta">
+                <h2>Pregunta 5:</h2>
+                <h3 class="enunciado">&nbsp;</h3>
+                <select id="select3" multiple>
+                </select>
+            </fieldset>
+            <fieldset class="pregunta">
+                <h2>Pregunta 6:</h2>
+                <h3 class="enunciado">&nbsp;</h3>
+                <select id="select4" multiple>
+                </select>
+            </fieldset>
+            <fieldset class="pregunta">
+                <h2>Pregunta 7:</h2>
+                <h3 class="enunciado">&nbsp;</h3>
+                <div class="checkbox"></div>
+            </fieldset>
+            <fieldset class="pregunta">
+                <h2>Pregunta 8:</h2>
+                <h3 class="enunciado">&nbsp;</h3>
+                <div class="checkbox"></div>
+            </fieldset>
+            <fieldset class="pregunta">
+                <h2>Pregunta 9:</h2>
+                <h3 class="enunciado">&nbsp;</h3>
+                <div class="radio"></div>
+            </fieldset>
+            <fieldset class="pregunta">
+                <h2>Pregunta 10:</h2>
+                <h3 class="enunciado">&nbsp;</h3>
+                <div class="radio"></div>
+            </fieldset>
+            <br>
+            <br>
+            <button id="evaluar">¡¡Evaluar!!</button>
+            <br>
+            <br>
+        </form>
+        <div id='resultadosDiv'></div>
+        <div id="nota"></div>
+        <div id="reintentar">
+            <button type="button" id = "rein">Reintentar</button> 
+        </div>
+        <br>
+        <br>
+        <br>
+    </body>
+</html>
