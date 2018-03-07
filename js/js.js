@@ -7,8 +7,6 @@ var respuestasCheckbox = [];
 var respuestasRadio = [];
 var nota = 0; //nota de la prueba sobre 3 puntos (hay 3 preguntas)
 var preguntaHTML;
-var urlMaria = "https://rawgit.com/MariaAdrover/LM_PRACTICA5/master/xml/formulari.xml";
-var urlJavi = 'https://rawgit.com/shamshir/Prueba/master/questions.xml';
 var urlXML = "https://rawgit.com/Bernat77/Formulario-Marcas/master/xml/preguntas.xml";
 
 //**************************************************************************************************** 
