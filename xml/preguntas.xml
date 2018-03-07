@@ -1,105 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE questions SYSTEM "preguntas.dtd">
 <questions>
-   <question id="pregunta001">
-      <type>text</type>
-      <title>Demuestra que no eres un robot, escribe "hola":</title>
-      <answer>hola</answer>
-   </question>
-   <question id="pregunta002">
-      <type />
-      <title>Si fueras Eric Arthur Blair, ¿Cuánto es 2+2?</title>
-      <answer>5</answer>
-   </question>
-   <question id="pregunta003">
-      <type>select</type>
-      <title></title>
-      <option>Ni machista, ni feminista, ..</option>
-      <option>Ciclista</option>
-      <option>Windows Vista</option>
-      <option>Imbécil</option>
-      <option>Especialista terrorista</option>
-      <answer>3</answer>
-   </question>
-   <question id="pregunta004">
-      <type>select</type>
-      <title>¿Hola?</title>
-      <option>Adiós</option>
-      <option>DEUS VULT</option>
-      <option>¡H-Hola! ¡Mi nombre es (tu_nombre)!</option>
-      <answer>1</answer>
-   </question>
-   <question id="pregunta005">
-      <type>multiple</type>
-      <title>¿Qué alimento deberían estar penados por la ley bajo pena de muerte por su consumo?</title>
-      <option>Fuet</option>
-      <option>Pizza con piña</option>
-      <option>Pizza de personas normales</option>
-      <option>Pizza con piña</option>
-      <option>Pizza con piña</option>
-      <option>Pizza con piña</option>
-      <answer>1</answer>
-      <answer>3</answer>
-      <answer>4</answer>
-      <answer>5</answer>
-   </question>
-   <question id="pregunta006">
-      <type>multiple</type>
-      <title>Selecciona sólo los juegos buenos</title>
-      <option>Xenogears</option>
-      <option>Dark Souls 2</option>
-      <option>A link to the past</option>
-      <option>Metal Gear Solid V</option>
-      <option>Soul Reaver</option>
-      <option>Megaman X5</option>
-      <option>Silent Hill 3</option>
-      <option>Castlevania 2</option>
-      <answer>0</answer>
-      <answer>2</answer>
-      <answer>4</answer>
-      <answer>5</answer>
-      <answer>6</answer>
-   </question>
-   <question id="pregunta007">
-      <type>checkbox</type>
-      <title>Ya no se me ocurre nada, asi que marca las casillas verdaderas</title>
-      <option>Pizza</option>
-      <option>¡¡¡¡¡VERDADERA!!!!!!!11</option>
-      <option>con piña</option>
-      <option>es una</option>
-      <option>Maravilla</option>
-      <option>Yo también soy verdadera</option>
-      <answer>1</answer>
-      <answer>5</answer>
-   </question>
-   <question id="pregunta008">
-      <type>checkbox</type>
-      <title>Selecciona sólo los mangas buenos</title>
-      <option>Shingeki No Kyojin</option>
-      <option>JoJo's Bizarre Adventure</option>
-      <option>Berserk</option>
-      <option>La biblia</option>
-      <option>Monster</option>
-      <option>El alquimista - Paulo Coelho</option>
-      <answer>1</answer>
-      <answer>2</answer>
-      <answer>4</answer>
-   </question>
-   <question id="pregunta009">
-      <type>radio</type>
-      <title>¿Te ha gustado este examen?</title>
-      <option>Sí</option>
-      <option>No</option>
-      <option>Más o menos</option>
-      <option>Ni "sí-ista" ni "no-ísta"</option>
-      <option>Me quiero ir a casa</option>
-      <answer>0</answer>
-   </question>
-   <question id="pregunta010">
-      <type>radio</type>
-      <title>Entonces, quedamos en que la pizza de piña es un asco, ¿Verdad?</title>
-      <option>Sí</option>
-      <option>No</option>
-      <answer>0</answer>
-   </question>
+    <question id="pregunta001">
+        <type>text</type>
+        <title>Demuestra que no eres un robot, escribe "hola":</title>
+        <answer>hola</answer>
+    </question>
+    <question id="pregunta002">
+        <type>text</type>
+        <title>Si fueras Eric Arthur Blair, ¿Cuánto es 2+2?</title>
+        <answer>5</answer>
+    </question>
+    <question id="pregunta003">
+        <type>select</type>
+        <title></title>
+        <option>Ni machista, ni feminista, ..</option>
+        <option>Ciclista</option>
+        <option>Windows Vista</option>
+        <option>Imbécil</option>
+        <option>Especialista terrorista</option>
+        <answer>3</answer>
+    </question>
+    <question id="pregunta004">
+        <type>select</type>
+        <title>¿Hola?</title>
+        <option>Adiós</option>
+        <option>DEUS VULT</option>
+        <option>¡H-Hola! ¡Mi nombre es (tu_nombre)!</option>
+        <answer>1</answer>
+    </question>
+    <question id="pregunta005">
+        <type>multiple</type>
+        <title>¿Qué alimento deberían estar penados por la ley bajo pena de muerte por su consumo?</title>
+        <option>Fuet</option>
+        <option>Pizza con piña</option>
+        <option>Pizza de personas normales</option>
+        <option>Pizza con piña</option>
+        <option>Pizza con piña</option>
+        <option>Pizza con piña</option>
+        <answer>1</answer>
+        <answer>3</answer>
+        <answer>4</answer>
+        <answer>5</answer>
+    </question>
+    <question id="pregunta006">
+        <type>multiple</type>
+        <title>Selecciona sólo los juegos buenos</title>
+        <option>Xenogears</option>
+        <option>Dark Souls 2</option>
+        <option>A link to the past</option>
+        <option>Metal Gear Solid V</option>
+        <option>Soul Reaver</option>
+        <option>Megaman X5</option>
+        <option>Silent Hill 3</option>
+        <option>Castlevania 2</option>
+        <answer>0</answer>
+        <answer>2</answer>
+        <answer>4</answer>
+        <answer>5</answer>
+        <answer>6</answer>
+    </question>
+    <question id="pregunta007">
+        <type>checkbox</type>
+        <title>Ya no se me ocurre nada, asi que marca las casillas verdaderas</title>
+        <option>Pizza</option>
+        <option>¡¡¡¡¡VERDADERA!!!!!!!11</option>
+        <option>con piña</option>
+        <option>es una</option>
+        <option>Maravilla</option>
+        <option>Yo también soy verdadera</option>
+        <answer>1</answer>
+        <answer>5</answer>
+    </question>
+    <question id="pregunta008">
+        <type>checkbox</type>
+        <title>Selecciona sólo los mangas buenos</title>
+        <option>Shingeki No Kyojin</option>
+        <option>JoJo's Bizarre Adventure</option>
+        <option>Berserk</option>
+        <option>La biblia</option>
+        <option>Monster</option>
+        <option>El alquimista - Paulo Coelho</option>
+        <answer>1</answer>
+        <answer>2</answer>
+        <answer>4</answer>
+    </question>
+    <question id="pregunta009">
+        <type>radio</type>
+        <title>¿Te ha gustado este examen?</title>
+        <option>Sí</option>
+        <option>No</option>
+        <option>Más o menos</option>
+        <option>Ni "sí-ista" ni "no-ísta"</option>
+        <option>Me quiero ir a casa</option>
+        <answer>0</answer>
+    </question>
+    <question id="pregunta010">
+        <type>radio</type>
+        <title>Entonces, quedamos en que la pizza de piña es un asco, ¿Verdad?</title>
+        <option>Sí</option>
+        <option>No</option>
+        <answer>0</answer>
+    </question>
 </questions>
