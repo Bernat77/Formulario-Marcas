@@ -1,0 +1,143 @@
+{
+  "questions": {
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "-xsi:noNamespaceSchemaLocation": "../xml/preguntas2.xsd",
+    "question": [
+      {
+        "-id": "pregunta001",
+        "type": "text",
+        "title": "Demuestra que no eres un robot, escribe \"hola\":",
+        "answer": "hola"
+      },
+      {
+        "-id": "pregunta002",
+        "type": "text",
+        "title": "Si fueras Eric Arthur Blair, ¿Cuánto es 2+2?",
+        "answer": "5"
+      },
+      {
+        "-id": "pregunta003",
+        "type": "select",
+        "title": "Ni machista, ni feminista, ..",
+        "option": [
+          "Igualista",
+          "Ciclista",
+          "Windows Vista",
+          "Imbécil",
+          "Especialista terrorista"
+        ],
+        "answer": "3"
+      },
+      {
+        "-id": "pregunta004",
+        "type": "select",
+        "title": "¿Hola?",
+        "option": [
+          "Adiós",
+          "DEUS VULT",
+          "¡H-Hola! ¡Mi nombre es (tu_nombre)!"
+        ],
+        "answer": "1"
+      },
+      {
+        "-id": "pregunta005",
+        "type": "multiple",
+        "title": "¿Qué alimento deberían estar penados por la ley bajo pena de muerte por su consumo?",
+        "option": [
+          "Fuet",
+          "Pizza con piña",
+          "Pizza de personas normales",
+          "Pizza con piña",
+          "Pizza con piña",
+          "Pizza con piña"
+        ],
+        "answer": [
+          "1",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "-id": "pregunta006",
+        "type": "multiple",
+        "title": "Selecciona sólo los juegos buenos",
+        "option": [
+          "Xenogears",
+          "Dark Souls 2",
+          "A link to the past",
+          "Metal Gear Solid V",
+          "Soul Reaver",
+          "Megaman X5",
+          "Silent Hill 3",
+          "Castlevania 2"
+        ],
+        "answer": [
+          "0",
+          "2",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "-id": "pregunta007",
+        "type": "checkbox",
+        "title": "Ya no se me ocurre nada, asi que marca las casillas verdaderas",
+        "option": [
+          "Pizza",
+          "¡¡¡¡¡VERDADERA!!!!!!!11",
+          "con piña",
+          "es una",
+          "Maravilla",
+          "Yo también soy verdadera"
+        ],
+        "answer": [
+          "1",
+          "5"
+        ]
+      },
+      {
+        "-id": "pregunta008",
+        "type": "checkbox",
+        "title": "Selecciona sólo los mangas buenos",
+        "option": [
+          "Shingeki No Kyojin",
+          "JoJo's Bizarre Adventure",
+          "Berserk",
+          "La biblia",
+          "Monster",
+          "El alquimista - Paulo Coelho"
+        ],
+        "answer": [
+          "1",
+          "2",
+          "4"
+        ]
+      },
+      {
+        "-id": "pregunta009",
+        "type": "radio",
+        "title": "¿Te ha gustado este examen?",
+        "option": [
+          "Sí",
+          "No",
+          "Más o menos",
+          "Ni \"sí-ista\" ni \"no-ísta\"",
+          "Me quiero ir a casa"
+        ],
+        "answer": "0"
+      },
+      {
+        "-id": "pregunta010",
+        "type": "radio",
+        "title": "Entonces, quedamos en que la pizza de piña es un asco, ¿Verdad?",
+        "option": [
+          "Sí",
+          "No"
+        ],
+        "answer": "0"
+      }
+    ]
+  }
+}
