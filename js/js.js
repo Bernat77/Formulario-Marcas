@@ -326,7 +326,7 @@ function darRespuestaHtml(r) {
 }
 
 function presentarNota() {
-    var r = nota + " sobre 10";
+    var r = parseInt(nota) + "/10";
     var p = document.createElement("p");
     var node = document.createTextNode(r);
     p.appendChild(node);
