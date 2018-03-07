@@ -250,7 +250,7 @@ label {
     padding-top: 100px;
     color: white;
 }
-.radio: first-of-type {
+.radio {
     text-align: left;
     color: pink;
     text-shadow: 10px 1px 5px purple, 0 0 25px white, 0 0 20px pink;
