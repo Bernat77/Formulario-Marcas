@@ -56,7 +56,7 @@ function gestionarXml(dadesXml) {
     for (; numpregunta < 2; numpregunta++) {
         var titulo = xmlDoc.getElementsByTagName("title")[numpregunta].innerHTML;
         ponerEnunciado(titulo, numpregunta);
-        respuestaText[numpregunta] = xmlDoc.getElementsByTagName("answer")[numpregunta].innerHTML;
+        respuestaText[numpregunta] = xmlDoc.getElementsByTagName("answer")[numpregunta].innerHTML.toLowerCase();
     }
 
 //SELECT
