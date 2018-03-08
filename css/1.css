@@ -28,8 +28,7 @@ body, html {
  #rein {
     top: 30px;
     position: relative;
-    display: none text-align: center;
-    position: ;
+    display: none;
     text-align: center;
     width: 250px;
     background-color: purple;
@@ -121,7 +120,7 @@ body, html {
     padding-top: 100px;
     color: white;
 }
- .radio: first-of-type {
+ .radio{
     text-align: left;
     color: pink;
     text-shadow: 10px 1px 5px purple, 0 0 25px white, 0 0 20px pink;
@@ -170,7 +169,6 @@ body, html {
 }
  #insmovil {
     display: none;
-}
 }
 .encabezado {
     text-align: center;
