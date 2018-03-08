@@ -28,7 +28,6 @@ body, html {
  #rein {
     top: 30px;
     position: relative;
-    display: none;
     text-align: center;
     width: 250px;
     background-color: purple;
